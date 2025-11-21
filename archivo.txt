@@ -1,5 +1,6 @@
 Archivo actualizado para la práctica de Pull Request.
 Versión 1.1
 
-Línea agregada para la actividad de code review.
+Línea para actividad de Pull Request.
+
 
